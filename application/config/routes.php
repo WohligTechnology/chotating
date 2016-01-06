@@ -41,7 +41,7 @@
 $route['default_controller'] = "json";
 $route['404_override'] = '';
 
-$route['backend'] = "site/index";
+$route['admin'] = "site/index";
 $route['demo/:any'] = "json/index";
 
 
