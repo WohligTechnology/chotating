@@ -6,7 +6,7 @@ if (!defined('BASEPATH')) {
 class Json extends CI_Controller
 {
     public function index() {
-        $row = $this->testimonial_model->getTestimonialByName($this->input->get("name"));
+        $row = $this->testimonial_model->getTestimonialByName($this->uri->segment(2));
         $data["name"]=$row->name;
         $data["image"]=$row->image;
         $this->load->view("templateImage",$data);

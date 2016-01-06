@@ -38,8 +38,11 @@
 |
 */
 
-$route['default_controller'] = "site";
+$route['default_controller'] = "json";
 $route['404_override'] = '';
+
+$route['backend'] = "site/index";
+$route['demo/:any'] = "json/index";
 
 
 /* End of file routes.php */
