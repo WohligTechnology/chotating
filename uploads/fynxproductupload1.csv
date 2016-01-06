@@ -1,0 +1,18 @@
+name,subcategory,quantity,type,description,price,relatedproduct,category,color,size,sizechart,sku,image1,image2,image3,image4,image5,baseproduct,sizechartimage
+Polo,T-shirt,1,V-neck,Polo Tshirt,800,,Men,Black,xxl,For Shirt,A110,t1.jpg,t2.jpg,t3.jpg,t4.jpg,t5.jpg,,sizec1.jpeg
+Graphics,Shirt,1,Round Neck,Round Graphics shirt,750,polo,Men,Blue,xxl,For Graphics,Z123,t11.jpg,t21.jpg,t31.jpg,t41.jpg,t51.jpg,polo,sizec1.jpeg
+Adidas,Hoodies,1,Chain,Good quality Chain ,680,"polo,graphics",Men,Blue,xl,For Hoodies,G12d,t12.jpg,t22.jpg,t32.jpg,t42.jpg,t52.jpg,adidas,sizec1.jpeg
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
