@@ -42,5 +42,9 @@ return $query;
 $query=$this->db->query("SELECT `image` FROM `testimonial` WHERE `id`='$id'")->row();
 return $query;
 }
+    public function getTestimonialByName($name) {
+        $query = $this->db->query("SELECT `name`,`image` FROM `testimonial` WHERE `name` LIKE '$name'")->row();
+        return $query;
+    }
 }
 ?>
